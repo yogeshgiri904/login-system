@@ -38,7 +38,7 @@
         echo '<div class="alert alert-success" role="alert">
         Hey chief, Welcome Back
         </div>';
-        header("location: index/music.html");
+        header("location: music.html");
       }
       else
       {
